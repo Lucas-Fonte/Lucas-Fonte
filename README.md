@@ -1,10 +1,10 @@
 ### Hi, I'm Lucas  🕶
 
 ## I'm a Student, Software Engineer and a RGB fan.
-- 🔭 I’m currently working as a Software Engineer at **Mobly**
+- 🔨 I’m currently working as a Software Engineer at **Mobly**
 - 🌱 I’m currently learning **Typescript** and **Python**
 - 💾 I’m looking to expand my projects
-- 📝 Second half of 2020 Goals: Study a lot more 
+- 📝 Second half of 2020 Goals: Improve on **OOP** and **Desing Patterns** 
 - ♟️ Fun fact: I really enjoy Chess
 
 ### Connect with me:
@@ -46,8 +46,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fonte&hide=HTML,CSS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fonte&hide=HTML,CSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Fonte&show_icons=true&hide=contribs,prs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Fonte&show_icons=true&hide=contribs,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
