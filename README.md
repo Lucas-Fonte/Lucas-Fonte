@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<div id="connectList" style="display:flex; justify-content: space-between; width: 100px">
+<div id="connectList" style="display:flex; justify-content: space-between; width: 100px; flex-direction:row">
 <a href="https://mockv2-lucasfonte.netlify.app/" target="_blank">
     <img align="left" alt="lucasfonte.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -45,9 +45,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 </div>
-
-<br />
-
 
 ---
 
