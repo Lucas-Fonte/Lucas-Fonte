@@ -1,7 +1,7 @@
 ### Hi, I'm Lucas  🕶
 
 ## I'm a Student, Software Engineer and a RGB fan.
-- 🔭 I’m currently working as a Software Engineer at [Mobly][company]
+- 🔭 I’m currently working as a Software Engineer at **Mobly**
 - 🌱 I’m currently learning **Typescript** and **Python**
 - 💾 I’m looking to expand my projects
 - 🥅 Second half of 2020 Goals: Study a lot more 
@@ -9,9 +9,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="lucasfonte.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<a href="https://mockv2-lucasfonte.netlify.app/" target="_blank">
+    <img align="left" alt="lucasfonte.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
 
-[<img align="left" alt="lucasfonte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://mockv2-lucasfonte.netlify.app/" target="_blank">
+    <img align="left" alt="lucasfonte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <br />
 
@@ -43,7 +47,3 @@
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Fonte&show_icons=true&hide=contribs,prs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-[website]: https://mockv2-lucasfonte.netlify.app/
-[linkedin]: https://linkedin.com/in
-[company]: https://www.mobly.com.br/
