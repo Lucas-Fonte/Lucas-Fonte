@@ -9,6 +9,7 @@
 
 ### Connect with me:
 
+<div id="connectList" style="display:flex; justify-content: space-between; width: 100px">
 <a href="https://mockv2-lucasfonte.netlify.app/" target="_blank">
     <img align="left" alt="lucasfonte.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -20,11 +21,13 @@
 <a href="mailto:fontelucas@yahoo.com.br" target="_blank">
     <img align="left" alt="lucasfonte.mail | mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg"  />
 </a>
+</div>
 
 <br />
 
 ### Languages and Tools:
 
+<div id="connectList" style="display:flex; justify-content: space-between; width: 500px">
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -41,13 +44,16 @@
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br />
+</div>
+
 <br />
 
+
 ---
+
+## Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fonte&hide=HTML,CSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Fonte&show_icons=true&hide=contribs,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
