@@ -10,17 +10,15 @@
 ### Connect with me:
 
 <div id="connectList" style="display:flex; justify-content: space-between; width: 100px; flex-direction:row">
-<a href="https://mockv2-lucasfonte.netlify.app/" target="_blank">
-    <img align="left" alt="lucasfonte.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/lucas-fonte-02b03a164/" target="_blank">
-    <img align="left" alt="lucasfonte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="mailto:fontelucas@yahoo.com.br" target="_blank">
-    <img align="left" alt="lucasfonte.mail | mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg"  />
-</a>
+    <a href="https://mockv2-lucasfonte.netlify.app/" target="_blank">
+        <img align="left" alt="lucasfonte.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/lucas-fonte-02b03a164/" target="_blank">
+        <img align="left" alt="lucasfonte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    <a href="mailto:fontelucas@yahoo.com.br" target="_blank">
+        <img align="left" alt="lucasfonte.mail | mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg"  />
+    </a>
 </div>
 
 <br />
