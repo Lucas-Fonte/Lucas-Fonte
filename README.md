@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas  🕶
 
-## I'm a Student, Software Engineer and a RGB fan.
+## I'm a Student, Software Engineer and a Yakissoba fan 🍜.
 - 🔨 I’m currently working as a Software Engineer at **Mobly**
 - 🌱 I’m currently learning **Typescript** and **Python**
 - 💾 I’m looking to expand my projects
