@@ -1,11 +1,11 @@
-### Hi, I'm Lucas  🕶
+### Hi, I'm Lucas 🕶
 
-## I'm a Student, Software Engineer and a Yakissoba fan 🍜.
+## I'm a Student and Software Engineer.
+
 - 🔨 I’m currently working as a Software Engineer at **Mobly**
 - 🌱 I’m currently learning **Typescript** and **Python**
-- 💾 I’m looking to expand my projects
-- 📝 Second half of 2020 Goals: Improve on **OOP** and **Desing Patterns** 
-- ♟️ Fun fact: I really enjoy Chess
+- 💾 I’m looking forward to grow my projects and open source contribution
+- 📝 Second half of 2020 Goals: Improve on **OOP** and **Desing Patterns**
 
 ### Connect with me:
 
@@ -53,4 +53,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fonte&hide=HTML,CSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Fonte&show_icons=true&hide=contribs,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
