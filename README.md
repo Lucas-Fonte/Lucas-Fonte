@@ -50,6 +50,6 @@
 
 ## Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fonte&hide=HTML,CSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Fonte&hide=HTML,CSS,PHP&theme=dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Fonte&show_icons=true&hide=contribs,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
