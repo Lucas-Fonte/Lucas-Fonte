@@ -10,7 +10,7 @@
 ### Portfolio / Blog (in development)
 
 <a href="https://mockv2-lucasfonte.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lucas-Fonte/Lucas-Fonte/master/assets/portfolio.gif" alt="portfolio_gif" width="100px">
+    <img src="https://raw.githubusercontent.com/Lucas-Fonte/Lucas-Fonte/master/assets/portfolio.gif" alt="portfolio-gif" width="100px">
 </a>
 
 ### Connect with me:
