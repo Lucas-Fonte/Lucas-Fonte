@@ -3,9 +3,9 @@
 ## I'm a Student and Software Engineer.
 
 - 🔨 I’m currently working as a Software Engineer at **Stone**
-- 🌱 I’m currently learning **Typescript**, **Python** and **Java**
-- 💾 I’m looking forward to grow my projects and open source contribution
-- 📝 Second half of 2020 Goals: Improve on **OOP** and **Design Patterns**
+- 🌱 I’m currently learning **Elixir** 
+- 💾 I’m looking forward to grow my projects and read more technical books
+- 📝 First half of 2021 Goals: Improve on **Infrastructure** and **low level problems**
 
 ### Portfolio / Blog (in development)
 
