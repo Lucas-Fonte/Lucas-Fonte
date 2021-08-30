@@ -3,7 +3,7 @@
 ## I'm a Student and Software Engineer.
 
 - 🔨 I’m currently working as a Software Engineer at **Stone**
-- 🌱 I’m currently learning **Elixir** 
+- 🌱 I’m currently learning **Elixir** and **C#**
 - 💾 I’m looking forward to grow my projects and read more technical books
 - 📝 First half of 2021 Goals: Improve on **Infrastructure** and **low level problems**
 
