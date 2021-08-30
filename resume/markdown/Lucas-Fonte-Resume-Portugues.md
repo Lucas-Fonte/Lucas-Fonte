@@ -105,23 +105,18 @@
           padding-right: 45px;
         "
       >
-        <strong>Mobly Comercio Varejista</strong>
+        <strong>Stone</strong>
         <text style="text-align: justify">
-          Engenheiro de Software | Jan 2020 - Atualmente
+          Engenheiro de Software | Nov 2020 - Atualmente
           <p style="margin-top: 5px">
-            Desenvolvimento de microserviços <i>Event-Driven</i> que tem como
-            intenção substituir os monolitos da empresa, utilizando
-            <b>AWS-Lamba + Serverless, NodeJS, MongoDB, SQS-SNS e Redis.</b>
-            Desenvolvimento de CRUDs entre plataformas utilizando
-            <b>ReactJs</b>. Soluções de arquitetura como criação de camada de
-            “parser” para comunicação entre microserviços. Implementação de
-            microserviço que íntegra montadores com pedidos de compra +
-            solicitação de montagem.
+            Responsável técnico do time de Governança, acompanhando múltiplas ferramentas, PRs, decisões de arquitetura e implementação de múltiplas soluções variando entre implementação de datalake utilizando <b>Airflow , Kubernetes</b> e <b>BigQuery</b> , solução de interface de uso controlado de <b>Github</b> através de um <b>chatbot no Slack</b>, implementação de solução de mapping sistêmico <b>Backstage</b> (criada pelo <b>Spotify</b>) e implementação de gates de controle e monitoramento de deploys no <b>Azure Devops</b>.
           </p>
           <p>
-            Desenvolvimento ativo em softwares internos da empresa voltados a
-            operações, dando manutenção e desenvolvimento aos sistemas legado
-            usando <b>PHP</b>, <b>Laravel/Symfony</b> e <b>MySQL</b>.
+            Desenvolvimento ativo em softwares internos da empresa voltados para Governança de TI e Infraestrutura
+            usando <b>Typescript</b>, <b>Python</b> e diversos recursos do <b>GCP</b> e <b>Azure Devops</b>. 
+          </p>
+          <p>
+            Desenvolvimento ativo de membros do time, com diversas talks internas na tribo de infraestrutura sobre diversos. Acompanhamento semanal dos membros da equipe em termos de desenvolvimento técnico e profissional. 
           </p>
         </text>
       </div>
@@ -178,6 +173,73 @@
           padding-right: 30px;
         "
       >
+        <strong>Mobly Comercio Varejista</strong>
+        <text style="text-align: justify">
+          Engenheiro de Software | Dez 2019 - Nov 2020
+          <p style="margin-top: 5px">
+            Desenvolvimento de microserviços <i>Event-Driven</i> que tem como
+            intenção substituir os monolitos da empresa, utilizando
+            <b>AWS-Lamba + Serverless, NodeJS, MongoDB, SQS-SNS e Redis.</b>
+            Desenvolvimento de CRUDs entre plataformas utilizando
+            <b>ReactJs</b>. Soluções de arquitetura como criação de camada de
+            “parser” para comunicação entre microserviços. Implementação de
+            microserviço que íntegra montadores com pedidos de compra +
+            solicitação de montagem.
+          </p>
+          <p>
+            Desenvolvimento ativo em softwares internos da empresa voltados a
+            operações, dando manutenção e desenvolvimento aos sistemas legado
+            usando <b>PHP</b>, <b>Laravel/Symfony</b> e <b>MySQL</b>.
+          </p>
+        </text>
+      </div>
+    </div>
+    <div style="width: 40%; display: flex; flex-direction: column">
+      <span style="color: #878787; font-size: 13px; text-align: left; margin-top: 10px;">
+          SKILLS
+      </span>
+      <div
+        class="block-content"
+        style="
+          display: flex;
+          flex-direction: column;
+          font-size: 10px;
+          line-height: 20px;
+          margin-top: 10px;
+        "
+      >
+        <text style="text-align: justify">
+          <b>Languages:</b> Typescript, Python, Elixir, PHP.
+        </text>
+        <text style="text-align: justify">
+          <b>Frameworks and Tools:</b> React & React Native, TypeORM & Knex, NoSQL, SQL, Git, Mocha + Chai, Jest, Pytest, Flask, Express
+        </text>
+        <text style="text-align: justify">
+          <b>Cloud/Infrastructure:</b> GCP, AzureDevops, AWS, Terraform, Airflow, Docker e Kubernetes
+        </text>
+        <text style="text-align: justify">
+          <b>Data Analysis/ Extraction:</b> BigQuery, Airflow e Google Datastudio
+        </text>
+        <br />
+        <text style="text-align: justify">
+          <b>Soft skills:</b>  Liderança, proatividade e fácil comunicação.
+        </text>
+      </div>
+    </div>
+  </div>
+  <div class="content" style="margin-top: -8px; display: flex; width: 100%">
+    <div style="width: 60%; display: flex; flex-direction: column">
+      <div
+        class="block-content"
+        style="
+          display: flex;
+          flex-direction: column;
+          font-size: 10px;
+          line-height: 20px;
+          margin-top: 10px;
+          padding-right: 30px;
+        "
+      >
         <strong>Confetti Industria e Comercio ltda.</strong>
         <text style="text-align: justify">
           Engenheiro de Software | Jan 2019 - Dez 2019
@@ -198,29 +260,7 @@
         </text>
       </div>
     </div>
-    <div style="width: 40%; display: flex; flex-direction: column">
-      <span style="color: #878787; font-size: 13px; text-align: left; margin-top: 10px;">
-          SKILLS
-      </span>
-      <div
-        class="block-content"
-        style="
-          display: flex;
-          flex-direction: column;
-          font-size: 10px;
-          line-height: 20px;
-          margin-top: 10px;
-        "
-      >
-        <text style="text-align: justify">
-          <b>Technical:</b> Typescript, Node.js, ReactJS, NoSQL, SQL , AWS, Git,  Python, React Native, Jest, Docker e PHP.
-        </text>
-        <br />
-        <text style="text-align: justify">
-          <b>Soft skills:</b>  Liderança, proatividade e fácil comunicação.
-        </text>
-      </div>
-    </div>
+
   </div>
   <br />
   <div class="content" style="margin-top: -8px; display: flex; width: 100%">
