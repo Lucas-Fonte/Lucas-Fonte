@@ -4,7 +4,7 @@
 
 - 🔨 I’m currently working as a Software Engineer at **Stone**
 - 🌱 I’m currently learning **Elixir** and **C#**
-- 💾 I’m looking forward learn more about Devops and complex systems
+- 💾 I’m looking forward learn more about **Devops** and **complex systems**
 - 📝 Second half of 2021 Goals: Improve on **Infrastructure (specially K8s)** and **chaos engineering**
 
 ### Portfolio / Blog (in development)
