@@ -3,8 +3,8 @@
 ## I'm a Student and Software Engineer.
 
 - 🔨 I’m currently working as a Software Engineer at **Stone**
-- 🌱 I’m currently learning **Elixir** and **C#**
-- 💾 I’m looking forward learn more about **Devops** and **complex systems**
+- 🌱 I’m currently learning **C#**, **Go** and **Airflow**
+- 💾 I’m looking forward learn more about **DevOps Culture** and **complex systems**
 - 📝 Second half of 2021 Goals: Improve on **Infrastructure (specially K8s)** and **chaos engineering**
 
 ### Portfolio / Blog (in development)
