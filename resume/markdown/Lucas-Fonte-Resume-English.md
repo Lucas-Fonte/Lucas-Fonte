@@ -1,3 +1,4 @@
+<div style="padding: 20px;">
 <div>
     <div
       style="
@@ -11,7 +12,7 @@
     </div>
     <div
       style="
-              margin-top: 10px;
+              margin-top: 20px;
               display:flex; 
               justify-content: center;
               align-items-center;
@@ -86,11 +87,12 @@
       </span>
     </div>
   </div>
-  <hr style="height: 0.5px; margin-top: 8px" />
-  <div class="content" style="margin-top: -8px; display: flex; width: 100%">
+  <hr style="height: 2px;margin-top: 15px;">
+
+  <div class="content" style="margin-top:20px; display: flex; width: 100%">
     <div style="width: 60%; display: flex; flex-direction: column">
       <span style="color: #878787; font-size: 13px; text-align: left">
-        EXPERIÊNCIA
+        EXPERIENCE
       </span>
       <div
         class="block-content"
@@ -100,33 +102,27 @@
           font-size: 10px;
           line-height: 20px;
           margin-top: 10px;
-          padding-right: 30px;
+          padding-right: 45px;
         "
       >
-        <strong>Mobly Comercio Varejista</strong>
+        <strong>Stone</strong>
         <text style="text-align: justify">
-          Engenheiro de Software | Jan 2020 - Atualmente
+          IT Governance Tech Lead / Software Engineer | Nov 2020 - Current
           <p style="margin-top: 5px">
-            Desenvolvimento de microserviços <i>Event-Driven</i> que tem como
-            intenção substituir os monolitos da empresa, utilizando
-            <b>AWS-Lamba + Serverless, NodeJS, MongoDB, SQS-SNS e Redis.</b>
-            Desenvolvimento de CRUDs entre plataformas utilizando
-            <b>ReactJs</b>. Soluções de arquitetura como criação de camada de
-            “parser” para comunicação entre microserviços. Implementação de
-            microserviço que íntegra montadores com pedidos de compra +
-            solicitação de montagem.
+            Technical focus point following multiple projects, pull requests, architecture decisions and different implementations, like a datalake structure using  <b>Airflow , Kubernetes</b> and <b>BigQuery</b>, controlled usage interface for <b>Github</b> through a <b>Slack chatbot</b>, implemented automated software cataloging process with multiple integrations within the company's CI/CD tools, cloud providers, etc, using  <b>Backstage</b> (created by <b>Spotify</b>.
           </p>
           <p>
-            Desenvolvimento ativo em softwares internos da empresa voltados a
-            operações, dando manutenção e desenvolvimento aos sistemas legado
-            usando <b>PHP</b>, <b>Laravel/Symfony</b> e <b>MySQL</b>.
+            Active development with internal IT governance software and infrastructure, most of it using <b>Typescript</b>, <b>Python</b> and <b>Golang</b>, thorough usage of cloud providers, specifically <b>Google Cloud Platform</b> and CI/CD / DevOps tool, <b>Azure DevOps</b>
+          </p>
+          <p>
+            Promoted team members technical and professional growth, multiple talks within the infrastructure tribe, weekly mentoring of team members.
           </p>
         </text>
       </div>
     </div>
     <div style="width: 40%; display: flex; flex-direction: column">
       <span style="color: #878787; font-size: 13px; text-align: left">
-          EDUCAÇÃO
+          EDUCATION
       </span>
       <div
         class="block-content"
@@ -141,23 +137,22 @@
         <strong>Universidade Federal do ABC</strong>
         <text style="text-align: justify">
               <ul>
-                  <li>Bacharelado em Ciência e Tecnologia</li>
-                  <li>Engenharia de Informação</li>
-                  Junho 2017 - Junho 2022
+                  <li>Computer Science</li>
+                  Jun 2017 - Jun 2022
               </ul>
         </text>
         <strong>Bootcamp GoStack - Rocketseat</strong>
         <text style="text-align: justify">
               <ul>
-                  <li>Curso <i>fullstack</i> usando Node, React e React Native</li>
-                  Junho 2019 - Outubro 2019
+                  <li><i>Fullstack</i> programming course using Node, React and React Native</li>
+                  Jun 2019 - Oct 2019
               </ul>
         </text>
         <strong>NAIT - Northern Alberta Institute of Technology - Canadá, AB</strong>
         <text style="text-align: justify">
               <ul>
                   <li>English as a Second Language Level 6 - English at college level</li>
-                   Dezembro 2015 - Janeiro 2017
+                   Dec 2015 - Jan 2017
               </ul>
         </text>
       </div>
@@ -176,22 +171,19 @@
           padding-right: 30px;
         "
       >
-        <strong>Confetti Industria e Comercio ltda.</strong>
+        <strong>Mobly Comercio Varejista</strong>
         <text style="text-align: justify">
-          Engenheiro de Software | Jan 2019 - Dez 2019
+          Software Engineer | Dec 2019 - Nov 2020
           <p style="margin-top: 5px">
-              Desenvolvimento de software de produção para o controle 
-              das atividades industriais e análise de performace 
-              utilizada por todos os funcionários, construída com  		 	
-              <b>NodeJS, ReactJS e Postgres.</b>
-              <ul>
-                  <li>Desenvolvimento de algoritmo de produção de termoplásticos.</li>
-                  <li>Melhora na produtividade industrial e conhecimento 	
-              compartilhado dos atuais projetos.</li>
-                  <li>ERP conectada via API melhorando funcionalidades   	
-              de softwares internos.</li>
-                  <li>Análise de custos.</li>	 			
-              </ul>					
+            <i>Event-Driven</i> microservices development replacing 
+            legacy monolithic applications using <b>AWS-Lamba + Serverless, NodeJS, MongoDB, SQS-SNS and Redis.</b>
+            CRUD development between multiple platforms using <b>ReactJs</b>. 
+            Created software architecture solutions, like a parsing layer between microservices. 
+            Implemented microservice that integrates purchase orders with the furniture assembly company.
+          </p>
+          <p>
+            Developed multiple features towards legacy code using <b>PHP</b>, 
+            <b>Laravel/Symfony</b> and <b>MySQL</b>.
           </p>
         </text>
       </div>
@@ -211,22 +203,26 @@
         "
       >
         <text style="text-align: justify">
-          <b>Technical:</b> Typescript, Node.js, ReactJS, NoSQL, SQL , AWS, Git,  Python, React Native, Jest, Docker e PHP.
+          <b>Languages:</b> Typescript, Python, Elixir, PHP, Java.
+        </text>
+        <text style="text-align: justify">
+          <b>Frameworks and Tools:</b> React & React Native, TypeORM & Knex, NoSQL, SQL, Git, Mocha + Chai, Jest, Pytest, Flask, Express
+        </text>
+        <text style="text-align: justify">
+          <b>Cloud/Infrastructure:</b> GCP, AzureDevops, AWS, Terraform, Airflow, Docker and Kubernetes
+        </text>
+        <text style="text-align: justify">
+          <b>Data Analysis/ Extraction:</b> BigQuery, Airflow and Google Datastudio
         </text>
         <br />
         <text style="text-align: justify">
-          <b>Soft skills:</b>  Liderança, proatividade e fácil comunicação.
+          <b>Soft skills:</b>  Leadership, communicative and problem solver.
         </text>
       </div>
     </div>
   </div>
-  
-  <br />
   <div class="content" style="margin-top: -8px; display: flex; width: 100%">
-    <div style="width: 60%; display: flex; flex-direction: column;">
-      <span style="color: #878787; font-size: 13px; text-align: left">
-          EXPERIÊNCIA PRÉVIA
-      </span>
+    <div style="width: 60%; display: flex; flex-direction: column">
       <div
         class="block-content"
         style="
@@ -240,25 +236,66 @@
       >
         <strong>Confetti Industria e Comercio ltda.</strong>
         <text style="text-align: justify">
-          Estágio de Engenharia | Maio 2018 - Jan 2019
+          Software Engineer | Jan 2019 - Dec 2019
           <p style="margin-top: 5px">
-              Desenvolvimento de scripts de automação usando
-              VBScript e análise de PCP e seu fluxo em um ambiente 
-              de produção, funcionalidades de um ERP(Livework)  				
-              e automação de planilhas Excel usando VBA. 
-              Desenvolvimento da versão 1.0 do software de gestão
-              de fábrica utilizando <b>PHP, jQuery + Javascript, HTML5, 
-              CSS3 e MySQL.</b>	
+              Software development aiming at solving industrial activities 
+              analysis, machine performance and production windows, using 
+              <b>NodeJS, ReactJS and Postgres.</b>
+              <ul>
+                  <li>Developed a production algorithm identifying production windows and optimization</li>
+                  <li>ERP integration redirect sales to production planning</li>
+                  <li>Process cost analysis</li>	 			
+              </ul>					
           </p>
         </text>
+      </div>
+    </div>
+
+  </div>
+  <br />
+  <div class="content" style="margin-top: -8px; display: flex; width: 100%">
+    <div style="width: 60%; display: flex; flex-direction: column;">
+      <span style="color: #878787; font-size: 13px; text-align: left">
+          PREVIOUS EXPERIENCE
+      </span>
+      <div
+        class="block-content"
+        style="
+          display: flex;
+          flex-direction: column;
+          font-size: 10px;
+          line-height: 20px;
+          margin-top: 10px;
+          padding-right: 30px;
+        "
+      >
+        <strong>Confetti Industria e Comercio ltda. (Thermoplastics factory)</strong>
+        <text style="text-align: justify">
+          Engineering Internship | May 2018 - Jan 2019
+          <p style="margin-top: 5px">
+              Developed automation scripts using VBScript for factory production 
+              analysis, production environment flow and ERP integrations. 
+              Automated sheets using VBA and development of a v0 of a factory manager 
+              using	 <b>PHP, jQuery + Javascript, HTML5, 
+              CSS3 and MySQL.</b>	
+          </p>
+        </text>
+        <!-- Break to next PDF page -->
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <strong>PUMA.CA - Canadá, AB</strong>
         <text style="text-align: justify">
-          Assistente de Vendas | Fevereiro 2016 - Janeiro 2017
+          Sales Assistant | Feb 2016 - Jan 2017
           <p style="margin-top: 5px">			
-              Contato direto com o cliente final, promovendo melhora 
-              na comunicação e habilidade de venda.
+              Contact direct to consumer, improving communication and sales skills.
           </p>
         </text>
       </div>
     </div>
   </div>
+</div>
+</div>
