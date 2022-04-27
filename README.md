@@ -1,11 +1,11 @@
 ### Hi, I'm Lucas 🕶
 
-## I'm a Student and Software Engineer.
+## I'm a Software Engineer.
 
-- 🔨 I’m currently working as a Software Engineer at **Stone**
-- 🌱 I’m currently learning **C#**, **Go** and **Airflow**
-- 💾 I’m looking forward learn more about **DevOps Culture** and **complex systems**
-- 📝 Second half of 2021 Goals: Improve on **Infrastructure (specially K8s)** and **chaos engineering**
+- 🔨 I’m currently working as a Software Engineer at **iFood**
+- 🌱 I’m currently learning **Kotlin**, **Go** and **K8s**
+- 💾 I’m looking forward learn more about **heavy load infrastructures** and **leadership principles**
+- 📝 Second half of 2022 Goals: Improve on **Clean Architecture**, **Microservices Design**, **TDD** 
 
 ### Portfolio / Blog (in development)
 
@@ -29,6 +29,8 @@
 ### Languages and Tools:
 
 <div id="toolsList">
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
