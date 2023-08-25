@@ -105,9 +105,34 @@
           padding-right: 45px;
         "
       >
+        <strong>iFood</strong>
+        <text style="text-align: justify">
+          Engenheiro de Software Sênior | Abril 2021 - Atualmente
+          <p style="margin-top: 5px">
+            Desenvolvedor no time de iFoodCard responsável por diversas funcionalidades tanto para B2C quanto para B2B utilizando majoritariamente <b>Golang</b> e <b>Kotlin</b>. Implementação de diferentes mecanismos de compra, gestão de saldo, geração de boletos, APIs de parceiros, compras de cartões presentes síncronas e assíncronas 
+          </p>
+          <p>
+           Participação ativa no desenvolvimento de bibliotecas internas para escritas em <b>Golang</b> para abstrair componentes externos como <b>Kafka</b>,  <b>SQS</b>,  <b>Datadog</b>,  <b>DynamoDB</b>,  <b>Redis</b>, etc.
+          </p>
+          <p>
+            Implementação de funcionalidades de larga escala com milhões de usuários mensais como o fluxo de auto resgate de cartões presentes e processamento de pagamentos via <b>Pix</b>. Além de incluir estratégias de <b>fallbacks</b>, <b>monitoramento</b>, <b>tracing</b>, <b>dashboards</b> tanto com viés de monitoramento técnico no grafana, quanto com viés de negócio no databricks para acompanhamento de vendas, meios de pagamentos, etc. 
+          </p>
+        </text>
+      </div>
+      <div
+        class="block-content"
+        style="
+          display: flex;
+          flex-direction: column;
+          font-size: 10px;
+          line-height: 20px;
+          margin-top: 10px;
+          padding-right: 45px;
+        "
+      >
         <strong>Stone</strong>
         <text style="text-align: justify">
-          Engenheiro de Software | Nov 2020 - Atualmente
+          Engenheiro de Software Sênior | Nov 2020 - Abril 2021
           <p style="margin-top: 5px">
             Responsável técnico do time de Governança, acompanhando múltiplas ferramentas, PRs, decisões de arquitetura e implementação de múltiplas soluções variando entre implementação de datalake utilizando <b>Airflow , Kubernetes</b> e <b>BigQuery</b> , solução de interface de uso controlado de <b>Github</b> através de um <b>chatbot no Slack</b>, implementação de solução de mapping sistêmico <b>Backstage</b> (criada pelo <b>Spotify</b>) e implementação de gates de controle e monitoramento de deploys no <b>Azure Devops</b>.
           </p>
@@ -153,11 +178,47 @@
         <strong>NAIT - Northern Alberta Institute of Technology - Canadá, AB</strong>
         <text style="text-align: justify">
               <ul>
+                  <li>Introduction to Mechanical Engineering</li>
                   <li>English as a Second Language Level 6 - English at college level</li>
                    Dezembro 2015 - Janeiro 2017
               </ul>
         </text>
       </div>
+          <div style="width: 80%; display: flex; flex-direction: column">
+      <span style="color: #878787; font-size: 13px; text-align: left; margin-top: 10px;">
+          SKILLS
+      </span>
+      <div
+        class="block-content"
+        style="
+          display: flex;
+          flex-direction: column;
+          font-size: 10px;
+          line-height: 20px;
+          margin-top: 10px;
+        "
+      >
+        <text style="text-align: justify">
+          <b>Languages:</b> Golang, Kotlin, Typescript, Python, Elixir, PHP.
+        </text>
+        <text style="text-align: justify">
+          <b>Frameworks and Tools:</b> Echo, Spring, NoSQL, SQL, Git, Mocha + Chai, Jest, Pytest, Flask, Express, React & React Native, etc.
+        </text>
+        <text style="text-align: justify">
+          <b>Cloud/Infrastructure:</b> AWS, GCP, AzureDevops, Terraform, Airflow, Docker e Kubernetes
+        </text>
+        <text style="text-align: justify">
+          <b>Data Analysis/ Extraction:</b> Databricks, BigQuery, Airflow e Google Datastudio
+        </text>
+        <text style="text-align: justify">
+          <b>APM/ Observability/ Logs :</b> New Relic, Datadog, Prometheus, Grafana e 
+        </text>
+        <br />
+        <text style="text-align: justify">
+          <b>Soft skills:</b>  Liderança, proatividade e fácil comunicação.
+        </text>
+      </div>
+    </div>
     </div>
   </div>
   <div class="content" style="margin-top: -8px; display: flex; width: 100%">
@@ -175,7 +236,7 @@
       >
         <strong>Mobly Comercio Varejista</strong>
         <text style="text-align: justify">
-          Engenheiro de Software | Dez 2019 - Nov 2020
+          Engenheiro de Software Pleno | Dez 2019 - Nov 2020
           <p style="margin-top: 5px">
             Desenvolvimento de microserviços <i>Event-Driven</i> que tem como
             intenção substituir os monolitos da empresa, utilizando
@@ -194,38 +255,7 @@
         </text>
       </div>
     </div>
-    <div style="width: 40%; display: flex; flex-direction: column">
-      <span style="color: #878787; font-size: 13px; text-align: left; margin-top: 10px;">
-          SKILLS
-      </span>
-      <div
-        class="block-content"
-        style="
-          display: flex;
-          flex-direction: column;
-          font-size: 10px;
-          line-height: 20px;
-          margin-top: 10px;
-        "
-      >
-        <text style="text-align: justify">
-          <b>Languages:</b> Typescript, Python, Elixir, PHP.
-        </text>
-        <text style="text-align: justify">
-          <b>Frameworks and Tools:</b> React & React Native, TypeORM & Knex, NoSQL, SQL, Git, Mocha + Chai, Jest, Pytest, Flask, Express
-        </text>
-        <text style="text-align: justify">
-          <b>Cloud/Infrastructure:</b> GCP, AzureDevops, AWS, Terraform, Airflow, Docker e Kubernetes
-        </text>
-        <text style="text-align: justify">
-          <b>Data Analysis/ Extraction:</b> BigQuery, Airflow e Google Datastudio
-        </text>
-        <br />
-        <text style="text-align: justify">
-          <b>Soft skills:</b>  Liderança, proatividade e fácil comunicação.
-        </text>
-      </div>
-    </div>
+  
   </div>
   <div class="content" style="margin-top: -8px; display: flex; width: 100%">
     <div style="width: 60%; display: flex; flex-direction: column">
@@ -242,7 +272,7 @@
       >
         <strong>Confetti Industria e Comercio ltda.</strong>
         <text style="text-align: justify">
-          Engenheiro de Software | Jan 2019 - Dez 2019
+          Engenheiro de Software | Maio 2018 - Dez 2019
           <p style="margin-top: 5px">
               Desenvolvimento de software de produção para o controle 
               das atividades industriais e análise de performace 
@@ -281,7 +311,7 @@
       >
         <strong>Confetti Industria e Comercio ltda.</strong>
         <text style="text-align: justify">
-          Estágio de Engenharia | Maio 2018 - Jan 2019
+          Estágio de Engenharia | Fev 2017 - Maio 2018
           <p style="margin-top: 5px">
               Desenvolvimento de scripts de automação usando
               VBScript e análise de PCP e seu fluxo em um ambiente 
@@ -301,7 +331,7 @@
         <br />
         <strong>PUMA.CA - Canadá, AB</strong>
         <text style="text-align: justify">
-          Assistente de Vendas | Fevereiro 2016 - Janeiro 2017
+          Assistente de Vendas | Fev 2016 - Jan 2017
           <p style="margin-top: 5px">			
               Contato direto com o cliente final, promovendo melhora 
               na comunicação e habilidade de venda.
