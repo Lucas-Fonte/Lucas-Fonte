@@ -112,10 +112,10 @@
             Desenvolvedor no time de iFoodCard responsável por diversas funcionalidades tanto para B2C quanto para B2B utilizando majoritariamente <b>Golang</b> e <b>Kotlin</b>. Implementação de diferentes mecanismos de compra, gestão de saldo, geração de boletos, APIs de parceiros, compras de cartões presentes síncronas e assíncronas 
           </p>
           <p>
-           Participação ativa no desenvolvimento de bibliotecas internas para escritas em <b>Golang</b> para abstrair componentes externos como <b>Kafka</b>,  <b>SQS</b>,  <b>Datadog</b>,  <b>DynamoDB</b>,  <b>Redis</b>, etc.
+           Participação ativa no desenvolvimento de bibliotecas internas escritas em <b>Golang</b> para abstrair componentes externos como <b>Kafka</b>,  <b>SQS</b>,  <b>Datadog</b>,  <b>DynamoDB</b>,  <b>Redis</b>, etc.
           </p>
           <p>
-            Implementação de funcionalidades de larga escala com milhões de usuários mensais como o fluxo de auto resgate de cartões presentes e processamento de pagamentos via <b>Pix</b>. Além de incluir estratégias de <b>fallbacks</b>, <b>monitoramento</b>, <b>tracing</b>, <b>dashboards</b> tanto com viés de monitoramento técnico no grafana, quanto com viés de negócio no databricks para acompanhamento de vendas, meios de pagamentos, etc. 
+            Implementação de funcionalidades de larga escala com milhões de usuários mensais como o fluxo de auto resgate de cartões presentes e processamento de pagamentos via <b>Pix</b>. Além de incluir estratégias de <b>fallbacks</b>, <b>monitoramento</b>, <b>tracing</b>, <b>dashboards</b> tanto com viés de monitoramento técnico no <b>Grafana</b>, quanto com viés de negócio no <b>Databricks</b> para acompanhamento de vendas, meios de pagamentos, taxa de aprovação, etc. 
           </p>
         </text>
       </div>
