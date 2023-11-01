@@ -94,6 +94,31 @@
       <span style="color: #878787; font-size: 13px; text-align: left">
         EXPERIENCE
       </span>
+            <div
+        class="block-content"
+        style="
+          display: flex;
+          flex-direction: column;
+          font-size: 10px;
+          line-height: 20px;
+          margin-top: 10px;
+          padding-right: 45px;
+        "
+      >
+        <strong>iFood</strong>
+        <text style="text-align: justify">
+          Senior Software Engineer | April 2022 - Current
+          <p style="margin-top: 5px">
+            Developer on the iFoodCard team responsible for various functionalities for both B2C and B2B, using primarily <b>Golang</b> and <b>Kotlin</b>. Implementation of different purchasing mechanisms, balance management, generation of invoices, partner APIs, synchronous and asynchronous gift card purchases.
+          </p>
+          <p>
+            Active participation in the development of internal libraries written in Golang to abstract external components such as <b>Kafka, SQS, Datadog, DynamoDB, Redis, etc</b>.
+          </p>
+          <p>
+            Implementation of large-scale features with millions of monthly users, such as the self-redemption flow for gift cards and <b>PIX</b> payment processing. This also includes <b>fallback strategies, monitoring, tracing, and dashboards</b>, both with a technical monitoring focus using <b>Grafana</b> and with a business focus using <b>Databricks</b> for sales tracking, payment methods, approval rates, etc.
+          </p>
+        </text>
+      </div>
       <div
         class="block-content"
         style="
@@ -107,7 +132,7 @@
       >
         <strong>Stone</strong>
         <text style="text-align: justify">
-          IT Governance Tech Lead / Software Engineer | Nov 2020 - Current
+          IT Governance Tech Lead / Software Engineer | Nov 2020 - April 2022
           <p style="margin-top: 5px">
             Technical focus point following multiple projects, pull requests, architecture decisions and different implementations, like a datalake structure using  <b>Airflow , Kubernetes</b> and <b>BigQuery</b>, controlled usage interface for <b>Github</b> through a <b>Slack chatbot</b>, implemented automated software cataloging process with multiple integrations within the company's CI/CD tools, cloud providers, etc, using  <b>Backstage</b> (created by <b>Spotify</b>.
           </p>
