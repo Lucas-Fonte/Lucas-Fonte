@@ -49,15 +49,17 @@ jobs:
       
       - name: Generate PDF - English
         run: |
-          md-to-pdf resume/markdown/Lucas-Fonte-Resume-English.md \
-            --pdf-options '{"format": "A4", "margin": {"top": "10mm", "right": "10mm", "bottom": "10mm", "left": "10mm"}, "printBackground": true}' \
-            --dest resume/pdf/Lucas-Fonte-Resume-English.pdf
+          cd resume/markdown
+          md-to-pdf Lucas-Fonte-Resume-English.md \
+            --pdf-options '{"format": "A4", "margin": {"top": "10mm", "right": "10mm", "bottom": "10mm", "left": "10mm"}, "printBackground": true}'
+          mv Lucas-Fonte-Resume-English.pdf ../pdf/
       
       - name: Generate PDF - Portuguese
         run: |
-          md-to-pdf resume/markdown/Lucas-Fonte-Resume-Portugues.md \
-            --pdf-options '{"format": "A4", "margin": {"top": "10mm", "right": "10mm", "bottom": "10mm", "left": "10mm"}, "printBackground": true}' \
-            --dest resume/pdf/Lucas-Fonte-Resume-Portugues.pdf
+          cd resume/markdown
+          md-to-pdf Lucas-Fonte-Resume-Portugues.md \
+            --pdf-options '{"format": "A4", "margin": {"top": "10mm", "right": "10mm", "bottom": "10mm", "left": "10mm"}, "printBackground": true}'
+          mv Lucas-Fonte-Resume-Portugues.pdf ../pdf/
       
       - name: Generate HTML - English
         run: |
