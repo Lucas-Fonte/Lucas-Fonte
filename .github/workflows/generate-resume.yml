@@ -1,0 +1,132 @@
+name: Generate Resume Formats
+
+on:
+  push:
+    paths:
+      - 'resume/markdown/*.md'
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-resumes:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install md-to-pdf
+        run: npm install -g md-to-pdf
+      
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+      
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get install -y imagemagick ghostscript
+          
+      - name: Configure ImageMagick policy
+        run: |
+          sudo sed -i 's/<policy domain="coder" rights="none" pattern="PDF" \/>/<policy domain="coder" rights="read|write" pattern="PDF" \/>/g' /etc/ImageMagick-6/policy.xml
+      
+      - name: Create output directories
+        run: |
+          mkdir -p resume/pdf
+          mkdir -p resume/html
+          mkdir -p resume/png
+          mkdir -p resume/jpeg
+      
+      - name: Generate PDF - English
+        run: |
+          md-to-pdf resume/markdown/Lucas-Fonte-Resume-English.md \
+            --pdf-options '{"format": "A4", "margin": {"top": "10mm", "right": "10mm", "bottom": "10mm", "left": "10mm"}, "printBackground": true}' \
+            --dest resume/pdf/Lucas-Fonte-Resume-English.pdf
+      
+      - name: Generate PDF - Portuguese
+        run: |
+          md-to-pdf resume/markdown/Lucas-Fonte-Resume-Portugues.md \
+            --pdf-options '{"format": "A4", "margin": {"top": "10mm", "right": "10mm", "bottom": "10mm", "left": "10mm"}, "printBackground": true}' \
+            --dest resume/pdf/Lucas-Fonte-Resume-Portugues.pdf
+      
+      - name: Generate HTML - English
+        run: |
+          pandoc resume/markdown/Lucas-Fonte-Resume-English.md \
+            -f markdown \
+            -t html \
+            -s \
+            --metadata title="Lucas Fonte - Resume" \
+            -o resume/html/Lucas-Fonte-Resume-English.html
+      
+      - name: Generate HTML - Portuguese
+        run: |
+          pandoc resume/markdown/Lucas-Fonte-Resume-Portugues.md \
+            -f markdown \
+            -t html \
+            -s \
+            --metadata title="Lucas Fonte - Currículo" \
+            -o resume/html/Lucas-Fonte-Resume-Portugues.html
+      
+      - name: Convert PDF to PNG - English
+        run: |
+          convert -density 300 \
+            resume/pdf/Lucas-Fonte-Resume-English.pdf \
+            -quality 100 \
+            -background white \
+            -alpha remove \
+            resume/png/Lucas-Fonte-Resume-English.png
+      
+      - name: Convert PDF to PNG - Portuguese
+        run: |
+          convert -density 300 \
+            resume/pdf/Lucas-Fonte-Resume-Portugues.pdf \
+            -quality 100 \
+            -background white \
+            -alpha remove \
+            resume/png/Lucas-Fonte-Resume-Portugues.png
+      
+      - name: Convert PDF to JPEG - English
+        run: |
+          convert -density 300 \
+            resume/pdf/Lucas-Fonte-Resume-English.pdf \
+            -quality 100 \
+            -background white \
+            -alpha remove \
+            -flatten \
+            resume/jpeg/Lucas-Fonte-Resume-English.jpeg
+      
+      - name: Convert PDF to JPEG - Portuguese
+        run: |
+          convert -density 300 \
+            resume/pdf/Lucas-Fonte-Resume-Portugues.pdf \
+            -quality 100 \
+            -background white \
+            -alpha remove \
+            -flatten \
+            resume/jpeg/Lucas-Fonte-Resume-Portugues.jpeg
+      
+      - name: Commit and push generated files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add resume/pdf/*.pdf
+          git add resume/html/*.html
+          git add resume/png/*.png
+          git add resume/jpeg/*.jpeg
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-generate resume formats [skip ci]"
+            git push
+          fi

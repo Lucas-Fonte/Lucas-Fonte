@@ -1,11 +1,38 @@
 ### Hi, I'm Lucas 🕶
 
-## I'm a Software Engineer.
+## I'm an Engineering Manager.
 
-- 🔨 I’m currently working as a Software Engineer at **iFood**
-- 🌱 I’m currently learning **Kotlin**, **Go** and **K8s**
-- 💾 I’m looking forward learn more about **heavy load infrastructures** and **leadership principles**
-- 📝 Second half of 2022 Goals: Improve on **Clean Architecture**, **Microservices Design**, **TDD** 
+- 🔨 I'm currently working as an **Engineering Manager** at **iFood**
+- 🌱 Leading teams building high-scale payment and fintech systems
+- 💾 Focused on **team development**, **technical strategy**, and **AI-powered solutions**
+- 📝 2025 Goals: Scale engineering teams, improve system reliability, and drive innovation with AI
+
+### 📄 Resume
+
+My resume is available in multiple formats:
+- [English (Markdown)](resume/markdown/Lucas-Fonte-Resume-English.md)
+- [Portuguese (Markdown)](resume/markdown/Lucas-Fonte-Resume-Portugues.md)
+
+#### Generate Resume Formats
+
+To generate PDF, PNG, JPEG, and HTML versions from the Markdown files:
+
+```bash
+# Install md-to-pdf (if not installed)
+npm install -g md-to-pdf
+
+# Generate PDF from Markdown
+md-to-pdf resume/markdown/Lucas-Fonte-Resume-English.md --pdf-options '{"format": "A4", "margin": "10mm"}' --dest resume/pdf/Lucas-Fonte-Resume-English.pdf
+md-to-pdf resume/markdown/Lucas-Fonte-Resume-Portugues.md --pdf-options '{"format": "A4", "margin": "10mm"}' --dest resume/pdf/Lucas-Fonte-Resume-Portugues.pdf
+
+# Generate HTML (using Pandoc)
+pandoc resume/markdown/Lucas-Fonte-Resume-English.md -f markdown -t html -s -o resume/html/Lucas-Fonte-Resume-English.html
+pandoc resume/markdown/Lucas-Fonte-Resume-Portugues.md -f markdown -t html -s -o resume/html/Lucas-Fonte-Resume-Portugues.html
+
+# Convert PDF to PNG/JPEG (using ImageMagick)
+convert -density 300 resume/pdf/Lucas-Fonte-Resume-English.pdf -quality 100 resume/png/Lucas-Fonte-Resume-English.png
+convert -density 300 resume/pdf/Lucas-Fonte-Resume-English.pdf -quality 100 resume/jpeg/Lucas-Fonte-Resume-English.jpeg
+```
 
 ### Portfolio / Blog (in development)
 
