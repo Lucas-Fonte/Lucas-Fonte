@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'resume/markdown/*.md'
+      - '.github/workflows/generate-resume.yml'
     branches:
       - master
       - main
