@@ -112,13 +112,13 @@
         <text style="text-align: justify">
           Engineering Manager | April 2025 - Current
           <p style="margin-top: 5px">
-            Leading the Digital Account engineering team, managing a team of 8+ engineers across multiple locations. Responsible for technical strategy, team development, and delivery of critical payment (money in/money out) and digital account features serving 5M+ active users.
+            Leading the <b>Digital Account engineering team</b>, managing a team of <b>8+ engineers</b> across multiple locations. Responsible for technical strategy, team development, and delivery of critical payment (money in/money out) and digital account features serving <b>5M+ active users</b>.
           </p>
           <p>
-            Drove the technical roadmap and architecture decisions for high-scale systems processing 50-100M+ transactions monthly. Improved team velocity by 20%, reduced deployment time by 20% <i>(both measured by deployment rate and feature delivery after me entering the position)</i>, and maintained 98% uptime SLA. Fostered a culture of continuous improvement with AI-powered solutions, including an AI Agent that reduced customer support tickets by 40% by automatically resolving digital account issues.
+            Drove the technical roadmap and architecture decisions for high-scale systems processing <b>50-100M+ transactions monthly</b>. Improved team velocity by <b>20%</b>, reduced deployment time by <b>20%</b> <i>(both measured by deployment rate and feature delivery after me entering the position)</i>, and maintained <b>98% uptime SLA</b>. Fostered a culture of continuous improvement with AI-powered solutions, including an <b>AI Agent that reduced customer support tickets by 40%</b> by automatically resolving digital account issues.
           </p>
           <p>
-            Led hiring and performance management for the team, conducting performance reviews and career development planning. Facilitated technical growth through code reviews, pair programming, and knowledge sharing sessions. Collaborated with cross-functional stakeholders (Product, Business, Support) to align technical solutions with business objectives and delivered multiple major projects on time.
+            Led hiring and performance management for the team, conducting performance reviews and career development planning. Facilitated technical growth through <b>code reviews, pair programming, and knowledge sharing sessions</b>. Collaborated with cross-functional stakeholders (Product, Business, Support) to align technical solutions with business objectives and delivered <b>multiple major projects on time</b>.
           </p>
         </text>
       </div>

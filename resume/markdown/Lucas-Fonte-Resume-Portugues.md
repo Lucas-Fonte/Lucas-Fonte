@@ -112,13 +112,13 @@
         <text style="text-align: justify">
           Engenheiro Gestor | Abril 2025 - Atualmente
           <p style="margin-top: 5px">
-            Liderando o time de engenharia de Conta Digital, gerenciando uma equipe de mais de 8 engenheiros em múltiplas localidades. Responsável pela estratégia técnica, desenvolvimento do time e entrega de funcionalidades críticas de pagamento (entrada e saída de dinheiro) e conta digital, atendendo mais de 5 milhões de usuários ativos.
+            Liderando o <b>time de engenharia de Conta Digital</b>, gerenciando uma equipe de mais de <b>8 engenheiros</b> em múltiplas localidades. Responsável pela estratégia técnica, desenvolvimento do time e entrega de funcionalidades críticas de pagamento (entrada e saída de dinheiro) e conta digital, atendendo mais de <b>5 milhões de usuários ativos</b>.
           </p>
           <p>
-            Direcionei o roadmap técnico e decisões de arquitetura para sistemas de alta escala processando 50-100 milhões de transações mensais. Melhorei a velocidade do time em 20%, reduzi o tempo de deploy em 20% <i>(ambos medidos pela taxa de deployment e entrega de funcionalidades após minha entrada na posição)</i>, e mantive 98% de uptime SLA. Promovi uma cultura de melhoria contínua com soluções baseadas em IA, incluindo um Agente de IA que reduziu tickets de suporte ao cliente em 40% ao resolver automaticamente problemas de conta digital.
+            Direcionei o roadmap técnico e decisões de arquitetura para sistemas de alta escala processando <b>50-100 milhões de transações mensais</b>. Melhorei a velocidade do time em <b>20%</b>, reduzi o tempo de deploy em <b>20%</b> <i>(ambos medidos pela taxa de deployment e entrega de funcionalidades após minha entrada na posição)</i>, e mantive <b>98% de uptime SLA</b>. Promovi uma cultura de melhoria contínua com soluções baseadas em IA, incluindo um <b>Agente de IA que reduziu tickets de suporte ao cliente em 40%</b> ao resolver automaticamente problemas de conta digital.
           </p>
           <p>
-            Liderei contratação e gestão de performance do time, conduzindo avaliações de desempenho e planejamento de desenvolvimento de carreira. Facilitei crescimento técnico através de code reviews, pair programming e sessões de compartilhamento de conhecimento. Colaborei com stakeholders multifuncionais (Produto, Negócio, Suporte) para alinhar soluções técnicas com objetivos de negócio e entreguei múltiplos projetos importantes no prazo.
+            Liderei contratação e gestão de performance do time, conduzindo avaliações de desempenho e planejamento de desenvolvimento de carreira. Facilitei crescimento técnico através de <b>code reviews, pair programming e sessões de compartilhamento de conhecimento</b>. Colaborei com stakeholders multifuncionais (Produto, Negócio, Suporte) para alinhar soluções técnicas com objetivos de negócio e entreguei <b>múltiplos projetos importantes no prazo</b>.
           </p>
         </text>
       </div>
