@@ -1,4 +1,4 @@
-name: Generate Resume Formats
+name: Generate Resume Multiple Formats
 
 on:
   push:
